@@ -1,4 +1,3 @@
 # Testing-Place
-It's testing repository for self-training.
-
-LOl, edited.
+We are learning how to use GitHub.
+:D
